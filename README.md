@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Это мой ReadMe-файл, я его редактирую. Этот файл был создан в рамках проекта RailsGirls, не судите его строго!
